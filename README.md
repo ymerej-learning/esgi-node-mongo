@@ -17,4 +17,3 @@ docker-compose exec mongo mongorestore -u admin -p password
 
 ```bash
 docker-compose up --detach
-```
